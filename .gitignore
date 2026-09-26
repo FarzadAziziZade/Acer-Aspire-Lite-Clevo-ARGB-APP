@@ -1,0 +1,13 @@
+# PyInstaller intermediates - regenerate with: powershell -File build.ps1
+build/work/
+build/spec/
+__pycache__/
+*.pyc
+
+# Compiled executable - regenerate with build.ps1
+KeyboardEffectsStudio.exe
+dist/
+
+
+# Runtime logs
+*.log
